@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpDDD.Application\CSharpDDD.Application.csproj" />
+    <ProjectReference Include="..\CSharpDDD.Domain.Core\CSharpDDD.Domain.Core.csproj" />
+    <ProjectReference Include="..\CSharpDDD.Domain.Services\CSharpDDD.Domain.Services.csproj" />
+    <ProjectReference Include="..\CSharpDDD.Domain\CSharpDDD.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Application.deps.json
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Application.dll
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Application.pdb
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.csprojAssemblyReference.cache
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.AssemblyInfo.cs
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.dll
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.pdb
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Domain.Core.dll
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Domain.dll
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Domain.Core.pdb
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\bin\Debug\netcoreapp3.1\CSharpDDD.Domain.pdb
+C:\Users\Aron\source\repos\CSharpDDD\CSharpDDD\CSharpDDD.Application\obj\Debug\netcoreapp3.1\CSharpDDD.Application.csproj.CopyComplete

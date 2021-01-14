@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpDDD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CSharpDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CSharpDDD.Domain.Core.dll": {}
+        }
+      },
+      "CSharpDDD.Domain/1.0.0": {
+        "runtime": {
+          "CSharpDDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
